@@ -1,0 +1,6 @@
+nemosis
+pandas
+pyarrow
+matplotlib
+jupyter
+cvxpy
